@@ -1,1 +1,1 @@
-# PRODIGY_AD_02
+This to-do list app was developed during my internship at Prodigy Infotech. It was a great opportunity to apply my skills in Flutter and mobile app development while working on a real-world application. The goal was to create a user-friendly and efficient tool for managing tasks, showcasing my ability to design and implement functional mobile applications.
